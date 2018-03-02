@@ -1,1 +1,1 @@
-# VectorDrawable
+# VectorDrawable.
