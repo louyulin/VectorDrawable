@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
-/**
+/**c'le
  * 1.VectorDrawable 很适应icon和小图标等~
  * 2.svg加载速度快但是渲染比png慢
  */
